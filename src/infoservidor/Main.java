@@ -23,6 +23,7 @@ public class Main {
         System.out.println("Diretorio Usuario: "+ System.getProperty("user.home"));
 
         System.out.println("--------------------------------------------------------------");
+        System.out.println("alteracao para outro commit");
         
     }
 
